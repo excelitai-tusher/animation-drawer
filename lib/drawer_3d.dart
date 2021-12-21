@@ -190,7 +190,7 @@ class _Drawer3DState extends State<Drawer3D>
                         color: Color(0xFFc7c0b2),
                         shadows: [
                           Shadow(
-                            color: Colors.black26,
+                            color: Colors.black87,
                             blurRadius: 5,
                             offset: Offset(2.0, 0.0),
                           ),
