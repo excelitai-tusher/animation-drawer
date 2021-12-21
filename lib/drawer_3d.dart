@@ -184,7 +184,7 @@ class _Drawer3DState extends State<Drawer3D>
                     angle: 90 * (pi / 180),
                     alignment: Alignment.centerLeft,
                     child: Text(
-                      "FENDER",
+                      "GUITAR",
                       style: TextStyle(
                         fontSize: 100,
                         color: Color(0xFFc7c0b2),
